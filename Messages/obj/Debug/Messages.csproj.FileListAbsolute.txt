@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Messages\Messages\bin\Debug\Messages.exe.config
+C:\Users\USER\source\repos\Messages\Messages\bin\Debug\Messages.exe
+C:\Users\USER\source\repos\Messages\Messages\bin\Debug\Messages.pdb
+C:\Users\USER\source\repos\Messages\Messages\obj\Debug\Messages.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Messages\Messages\obj\Debug\Messages.Messages.resources
+C:\Users\USER\source\repos\Messages\Messages\obj\Debug\Messages.Properties.Resources.resources
+C:\Users\USER\source\repos\Messages\Messages\obj\Debug\Messages.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Messages\Messages\obj\Debug\Messages.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Messages\Messages\obj\Debug\Messages.exe
+C:\Users\USER\source\repos\Messages\Messages\obj\Debug\Messages.pdb
